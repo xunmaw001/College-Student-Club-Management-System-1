@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS ssm23uzf;
+
